@@ -8,6 +8,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/825b6764-a432-49e5-9980-96831b5d90a3.svg)](https://wakatime.com/@825b6764-a432-49e5-9980-96831b5d90a3)
 
+[![wakatime](https://wakatime.com/badge/user/825b6764-a432-49e5-9980-96831b5d90a3/project/7d70b214-edea-48d2-8cb1-2950fc0f93bc.svg)](https://wakatime.com/badge/user/825b6764-a432-49e5-9980-96831b5d90a3/project/7d70b214-edea-48d2-8cb1-2950fc0f93bc)
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=syedasonianaz&theme=dark&border_radius=5&layout=compact"/>
+
 
 
