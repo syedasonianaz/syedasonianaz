@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedasonianaz&show_icons=true&locale=en&layout=compact" alt="syedasonianaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedasonianaz&show_icons=true&locale=en" alt="syedasonianaz" /></p>
+
+[![wakatime](https://wakatime.com/badge/user/825b6764-a432-49e5-9980-96831b5d90a3.svg)](https://wakatime.com/@825b6764-a432-49e5-9980-96831b5d90a3)
