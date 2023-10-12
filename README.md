@@ -1,4 +1,4 @@
-<p align="center"><b>Hi , I'm Sonia</p></b>b
+<p align="center"><b>Hi , I'm Sonia</p></b>
 <p align="center"><b>Student of Artificial Intelligence, Machine Learning and Deep Learning from Pakistan</p></b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedasonianaz&label=Profile%20views&color=0e75b6&style=flat" alt="syedasonianaz" /> </p>
