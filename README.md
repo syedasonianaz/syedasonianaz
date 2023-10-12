@@ -1,5 +1,5 @@
-<p align="center">Hi , I'm Sonia</p>
-<p align="center">Student of Artificial Intelligence, Machine Learning and Deep Learning from Pakistan</p>
+<p align="center"><b>Hi , I'm Sonia</p></b>b
+<p align="center"><b>Student of Artificial Intelligence, Machine Learning and Deep Learning from Pakistan</p></b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedasonianaz&label=Profile%20views&color=0e75b6&style=flat" alt="syedasonianaz" /> </p>
 
@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=syedasonianaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syedasonianazi&theme=dark&hide_border=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasonianaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/825b6764-a432-49e5-9980-96831b5d90a3.svg)](https://wakatime.com/@825b6764-a432-49e5-9980-96831b5d90a3)
